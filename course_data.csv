@@ -1,0 +1,11 @@
+CourseID,Title,Domain,Level,Platform,Duration(hrs)
+101,Intro to HTML & CSS,Frontend Development,Beginner,Coursera,15
+102,Advanced JavaScript,Frontend Development,Intermediate,Udemy,25
+103,Ethical Hacking Basics,Cybersecurity,Beginner,edX,20
+104,Cybersecurity Advanced,Cybersecurity,Intermediate,Coursera,30
+105,Figma Masterclass,UI/UX Design,Intermediate,Skillshare,18
+106,Data Science with Python,Data Science,Beginner,Coursera,22
+107,ML Fundamentals,Data Science,Intermediate,Udemy,35
+108,Backend APIs with Python,Backend Development,Beginner,edX,28
+109,Advanced Backend Systems,Backend Development,Advanced,Coursera,40
+110,DevOps for Beginners,DevOps,Beginner,Udemy,12
